@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammamd Amin Zamani afshar</h1>
-<h3 align="center">A passionate Flutter Developer👨‍💻 from Iran</h3>
+I'm a Flutter developer with two years of experience in this field. I'm interested in everything related to 
+programming and the computer world and I always welcome new challenges.<br /> 
+<br/><br/>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadaminzamaniafshar&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadaminzamaniafshar" /> </p>
+
+
 
 - 🔭 I’m currently working on **getting a new well-paying remote job**
 
